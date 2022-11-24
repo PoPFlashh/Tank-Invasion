@@ -1,0 +1,5 @@
+Ground Invasion!
+
+A proto-type of a game where you need to tactically pick your shots (shoot with space bar) to defend yourself.
+
+Currently there are some known issues that need to be fixed.
